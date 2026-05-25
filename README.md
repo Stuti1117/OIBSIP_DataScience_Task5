@@ -6,8 +6,7 @@ Advertising sales prediction using Python and machine learning.
 ## Task Information
 - **Task Number:** Task 5
 - **Project Name:** Advertising Sales Prediction
-- **Author:** Pranav Panara
-
+- **Author:** Stuti Bakrania
 ---
 
 ## Project Objective
@@ -52,6 +51,9 @@ The dataset contains advertising information related to:
 - `Stuti_Task5.ipynb`
 - `Advertising.csv`
 - `README.md`
+- ![Screenshot](Task_5_ss-1.png)
+- ![Screenshot](Task_5_ss-2.png)
+- ![Screenshot](Task_5_ss-3.png)
 
 ---
 
@@ -60,7 +62,8 @@ The machine learning model predicts sales based on advertising expenditures acro
 
 ---
 
-## GitHub Repository
-Project submitted through GitHub repository as per submission instructions.
+## Output Screenshot
 
----
+![Screenshot](Task_5_ss-1.png)
+![Screenshot](Task_5_ss-2.png)
+![Screenshot](Task_5_ss-3.png)
